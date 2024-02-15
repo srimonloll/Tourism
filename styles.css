@@ -1,0 +1,41 @@
+html{
+background-image: url("https://i.pinimg.com/564x/5d/7a/43/5d7a43ddfaf35baccec84b8524919bdb.jpg");
+    background-repeat: no-repeat;
+  background-size: 1500px 2000px;
+    font-family: 'satisfy';
+}
+
+body{
+    text-align:center; 
+    color:black;
+}
+
+.imgs {
+    display: inline-block;
+    text-align: center; 
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.picture {
+    display: inline;
+    margin: 8px 8px;
+}
+
+.gallery img {
+    margin: 8px;
+    height: 200px;
+    width:270px;
+    border: 4px double pink;
+}
+
+button, input {
+    font-family: 'satisfy';
+}
+
+.gallery p {
+    text-align: center;
+    margin-top: 15px;
+}
+
+
